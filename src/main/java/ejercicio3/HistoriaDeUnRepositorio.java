@@ -13,6 +13,9 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("R:Me rompi la rodilla por 4 partes y dios que dolor");
 		System.out.println("R:Grite muchisimo pero nadie me oia");
 		System.out.println("R:Estaba muy nervioso y empece a llorar del dolor");
+		System.out.println("Me rompi la rodilla por 4 partes y dios que dolor");
+		System.out.println("Fui a urgencias y alli me encontre a Roger");
+
 			
 	}
 
