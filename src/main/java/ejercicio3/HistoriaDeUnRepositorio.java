@@ -10,6 +10,7 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Cuando estaba saliendo me cai por una alcantarilla");
 		System.out.println("Y se me rompio el movil"); 
 		System.out.println("Me rompi la rodilla por 4 partes y dios que dolor");
+		System.out.println("una rodilla que ya me habia operado el año pasado");
 
 			
 	}
