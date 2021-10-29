@@ -8,11 +8,11 @@ public class HistoriaDeUnRepositorio {
 		// TODO Auto-generated method stub
 
 		Scanner texto = new Scanner(System.in);
-		
+
 		System.out.println("R:Hace un buen dia para echarse una siesta");
-		System.out.println("Pero me tome un te y sali con la bici"); 
+		System.out.println("Pero me tome un te y sali con la bici");
 		System.out.println("Cuando estaba saliendo me cai por una alcantarilla");
-		System.out.println("Y se me rompio el movil"); 
+		System.out.println("Y se me rompio el movil");
 		System.out.println("Despues un hombre me robo la cartera");
 		System.out.println("Me rompi la rodilla por 4 partes y dios que dolor");
 		System.out.println("una rodilla que ya me habia operado el a�o pasado");
@@ -23,20 +23,17 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Fui a urgencias y alli me encontre a Roger");
 		System.out.println("Te gusto la historia?");
 		System.out.println("SI o NO");
-		String respuesta= texto.nextLine();
-		
-		if(respuesta.equalsIgnoreCase("Si")) {
-			
+		String respuesta = texto.nextLine();
+
+		if (respuesta.equalsIgnoreCase("Si")) {
+
 			System.out.println("Nos alegramos que te haya gustado :3");
-			
-		}else if(respuesta.equalsIgnoreCase("No")){
+
+		} else if (respuesta.equalsIgnoreCase("No")) {
 			System.out.println("Pues es lo que hay crack.");
-		}else {
+		} else {
 			System.out.println("Mira no te entiendo XD");
 		}
-	
-	
-	}
-	}
 
-
+	}
+}
