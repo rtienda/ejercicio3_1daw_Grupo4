@@ -32,7 +32,7 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Sin embargo, Roger no tuvo tanta suerte");
 		System.out.println("La enfermera le vio con la raqueta clavada en la cabeza y creyo que era un disfraz de halloween");
 		System.out.println("Y en efecto, era habulin");
-		System.out.println("Ademas la enfermera tambien iba desfrazada, en realidad era Paquito el Chocolatero");
+		System.out.println("Ademas la enfermera tambien iba disfrazada, en realidad era Paquito el Chocolatero");
 		System.out.println("Estaba hasta los cojones y me fui a cenar de una maldita vez");
 		System.out.println("Al salir de urgencias volvi a ver a Roger Federer y supe que algo no iba bien");
 		System.out.println("Me fui a cenar con la pierna rota porque no me la habian podido curar");
@@ -40,6 +40,20 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Empezaron a llover fideos chinos");
 		System.out.println("Que ricos, con lo que me gustan a mi");
 		System.out.println("Pero despues de degustarlos me di cuenta de que eran fideos checoslovacos");
+		System.out.println("Vino un aleman y me dio de hostias");
+		System.out.println("Me empece a atragantar con los fideos y ahi me di cuenta de que mi vida habia sido una mierda");
+		System.out.println("Vi una luz al final de un tunel ");
+		System.out.println("Fui hacia ella y eran unas obras que estaban haciendo");
+		System.out.println("Pero me volvi a caer en el agujero de las obras, me rodearon las cucarachas");
+		System.out.println("Aprete el cianuro que llevaba debajo de la lengua para finalizar mi tortura ");
+		System.out.println("Y ahi acabo todo ");
+
+
+
+
+
+
+
 
 
 		
