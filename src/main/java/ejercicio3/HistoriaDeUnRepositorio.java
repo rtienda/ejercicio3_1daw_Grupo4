@@ -22,6 +22,10 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Fui a urgencias y alli me encontre a Roger");
 		System.out.println("Pues si se�ores, era Roger Federer");
 		System.out.println("Entonces le propuse a Roger ir a cenar");
+		System.out.println("Y Roger me dijo que no");
+
+		
+		
 
 
 	}
