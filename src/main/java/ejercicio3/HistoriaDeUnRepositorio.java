@@ -27,6 +27,7 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Sin querer se tropezo y se rompio la crisma");
 		System.out.println("Entonces aparecio Hermione Granger y dijo que podia arreglar la situacion con su giratiempo");
 		System.out.println("No estaba segura si realmente vi a Hermione o eran los efectos de los calmantes");
+		System.out.println("lo que si tenia claro es que Roger estaba en el suelo muerto");
 
 
 		
