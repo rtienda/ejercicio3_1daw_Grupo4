@@ -24,6 +24,7 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Entonces le propuse a Roger ir a cenar");
 		System.out.println("Y Roger me dijo que no");
 		System.out.println("En ese momento me entró ganas de abofetearlo");
+		System.out.println("Roger se encendió un cigarrillo y sacó una petaca");
 		
 		
 
