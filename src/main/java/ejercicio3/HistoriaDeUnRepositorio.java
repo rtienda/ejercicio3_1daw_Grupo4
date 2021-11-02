@@ -12,6 +12,7 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Pero me tome un te y sali con la bici");
 		System.out.println("Cuando estaba saliendo me cai por una alcantarilla");
 		System.out.println("Y se me rompio el movil");
+		System.out.println("Se dio un buen chascarrazo");
 		System.out.println("Despues un hombre me robo la cartera");
 		System.out.println("Me rompi la rodilla por 4 partes y dios que dolor");
 		System.out.println("una rodilla que ya me habia operado el mes pasado");
