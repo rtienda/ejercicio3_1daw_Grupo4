@@ -28,7 +28,12 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Entonces aparecio Hermione Granger y dijo que podia arreglar la situacion con su giratiempo");
 		System.out.println("No estaba segura si realmente vi a Hermione o eran los efectos de los calmantes");
 		System.out.println("Lo que si tenia claro es que Roger estaba en el suelo muerto");
-		System.out.println("Me estaba desangrando en urgencias cuando apareci� por fin una enfermera para ayudarme, una enfermera muy guapa");
+		System.out.println("Me estaba desangrando en urgencias cuando apareci� por fin una enfermera para ayudarme, una enfermera muy guapa");
+		System.out.println("Sin embargo, Roger no tuvo tanta suerte");
+		System.out.println("La enfermera le vió con la raqueta clavada en la cabeza y creyó que era un disfraz de halloween");
+
+
+		
 
 
 		
