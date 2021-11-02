@@ -35,6 +35,8 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Ademas la enfermera tambien iba desfrazada, en realidad era Paquito el Chocolatero");
 		System.out.println("Estaba hasta los cojones y me fui a cenar de una maldita vez");
 		System.out.println("Al salir de urgencias volvi a ver a Roger Federer y supe que algo no iba bien");
+		System.out.println("Me fui a cenar con la pierna rota porque no me la habian podido curar");
+		System.out.println("En efecto, la cosa no iba bien, Roger estaba bailando salsa con Hermione, eran pareja de baile");
 
 
 		
