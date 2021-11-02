@@ -25,6 +25,7 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Roger se encendio un cigarrillo y saco una petaca");
 		System.out.println("Estaba malhumorado, y llevaba un trapo antiguo en la cabeza");
 		System.out.println("Sin querer se tropezo y se rompio la crisma");
+		System.out.println("Entonces aparecio Hermione Granger y dijo que podia arreglar la situacion con su giratiempo");
 
 		
 		
