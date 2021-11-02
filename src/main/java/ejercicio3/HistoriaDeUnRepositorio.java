@@ -21,6 +21,7 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("R:Estaba muy nervioso y empece a llorar del dolor");
 		System.out.println("Me rompi la rodilla por 4 partes y dios que dolor");
 		System.out.println("Fui a urgencias y alli me encontre a Roger");
+<<<<<<< HEAD
 		System.out.println("Roger es un tipo majo");
 
 		System.out.println("Te gusto la historia?");
@@ -29,6 +30,9 @@ public class HistoriaDeUnRepositorio {
 		String respuesta = texto.nextLine();
 
 		if (respuesta.equalsIgnoreCase("Si")) {
+=======
+		System.out.println("Entonces Roger me propuso ir a cenar");
+>>>>>>> parent of 2de05c3 (Merge branch 'main' of https://github.com/rtienda/ejercicio3_1daw_Grupo4)
 
 			System.out.println("Nos alegramos que te haya gustado :3");
 
