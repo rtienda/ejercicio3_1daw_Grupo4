@@ -23,8 +23,10 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Pues si seï¿½ores, era Roger Federer");
 		System.out.println("Entonces le propuse a Roger ir a cenar");
 		System.out.println("Y Roger me dijo que no");
-		System.out.println("En ese momento me entró ganas de abofetearlo");
-		System.out.println("Roger se encendió un cigarrillo y sacó una petaca");
+		System.out.println("En ese momento me entrï¿½ ganas de abofetearlo");
+		System.out.println("Roger se encendiï¿½ un cigarrillo y sacï¿½ una petaca");
+		System.out.println("Estaba malhumorado, y y llevaba un trapo antiguo en la cabeza");
+
 		
 		
 
