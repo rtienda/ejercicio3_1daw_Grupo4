@@ -14,18 +14,17 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Y se me rompio el movil");
 		System.out.println("Despues un hombre me robo la cartera");
 		System.out.println("Me rompi la rodilla por 4 partes y dios que dolor");
-		System.out.println("una rodilla que ya me habia operado el a�o pasado");
-		System.out.println("R:Me rompi la rodilla por 4 partes y dios que dolor");
+		System.out.println("una rodilla que ya me habia operado el mes pasado");
 		System.out.println("R:Grite muchisimo pero nadie me oia");
 		System.out.println("R:Estaba muy nervioso y empece a llorar del dolor");
-		System.out.println("Me rompi la rodilla por 4 partes y dios que dolor");
 		System.out.println("Fui a urgencias y alli me encontre a Roger");
-		System.out.println("Pues si se�ores, era Roger Federer");
+		System.out.println("Pues si, era Roger Federer");
 		System.out.println("Entonces le propuse a Roger ir a cenar");
 		System.out.println("Y Roger me dijo que no");
-		System.out.println("En ese momento me entr� ganas de abofetearlo");
-		System.out.println("Roger se encendi� un cigarrillo y sac� una petaca");
-		System.out.println("Estaba malhumorado, y y llevaba un trapo antiguo en la cabeza");
+		System.out.println("En ese momento me entraron ganas de abofetearlo");
+		System.out.println("Roger se encendio un cigarrillo y saco una petaca");
+		System.out.println("Estaba malhumorado, y llevaba un trapo antiguo en la cabeza");
+		System.out.println("Sin querer se tropezo y se rompio la crisma");
 
 		
 		
