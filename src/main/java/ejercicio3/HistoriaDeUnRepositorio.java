@@ -32,7 +32,9 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Sin embargo, Roger no tuvo tanta suerte");
 		System.out.println("La enfermera le vio con la raqueta clavada en la cabeza y creyo que era un disfraz de halloween");
 		System.out.println("Y en efecto, era habulin");
-		System.out.println("Ademas la enfermera tambien iba deifrazada, en realidad era Paquito el Chocolatero");
+		System.out.println("Ademas la enfermera tambien iba desfrazada, en realidad era Paquito el Chocolatero");
+		System.out.println("Estaba hasta los cojones y me fui a cenar de una maldita vez");
+		System.out.println("Al salir de urgencias volvi a ver a Roger Federer y supe que algo no iba bien");
 
 
 		
