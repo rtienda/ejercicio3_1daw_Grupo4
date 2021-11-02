@@ -21,6 +21,7 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Fui a urgencias y alli me encontre a Roger");
 		System.out.println("Pues si, era Roger Federer");
 		System.out.println("Entonces le propuse a Roger ir a cenar");
+		System.out.println("Cenar unos tortellini");
 		System.out.println("Y Roger me dijo que no");
 		System.out.println("En ese momento me entraron ganas de abofetearlo");
 		System.out.println("Roger se encendio un cigarrillo y saco una petaca");
@@ -41,7 +42,7 @@ public class HistoriaDeUnRepositorio {
 		System.out.println("Empezaron a llover fideos chinos");
 		System.out.println("Que ricos, con lo que me gustan a mi");
 		System.out.println("Pero despues de degustarlos me di cuenta de que eran fideos checoslovacos");
-		System.out.println("Vi un señor alto con chepa y me burle de el");
+		System.out.println("Vi un seï¿½or alto con chepa y me burle de el");
 		System.out.println("Era aleman y me dio de hostias");
 		System.out.println("Me empece a atragantar con los fideos y ahi me di cuenta de que mi vida habia sido una mierda");
 		System.out.println("Vi una luz al final de un tunel ");
